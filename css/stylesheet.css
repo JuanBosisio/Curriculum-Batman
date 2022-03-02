@@ -1,0 +1,87 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.imagen-batman{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+.imagen-batman img{
+    margin: 20.9px 0px; 
+}
+
+h1{
+    text-align: center;
+    color: #005677;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: #C4C4C4;
+    letter-spacing: 0.25em;
+    margin: 0px;
+}
+
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 84.69%;
+    letter-spacing: 0.25em;
+    padding: 7px 0px 7px 12px;
+}
+
+.datos-personales li{
+    margin: 10px 0;
+}
+
+.datos-personales{
+    margin-top: 150px;
+    margin-bottom: 10px;
+}
+
+.datos-personales ul span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.formacion-academica ul{
+    list-style: none;
+    margin: 10px 0;
+}
+
+.formacion-academica ul span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.experiencia-laboral ul{
+    list-style: none;
+    margin: 10px;
+}
+
+.experiencia-laboral ul span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer{
+    margin-top: 150px;
+    padding: 11px 0;
+    display:flex;
+    justify-content: center;
+    background-color: #005677;
+    color: #ffffff;
+}
+
+footer img{
+    object-fit: contain;
+    margin: 0 20px;
+}
+
+footer h3{
+    margin: 0 20px;
+    font-size: 20px;
+    line-height: 16.94px;
+}
